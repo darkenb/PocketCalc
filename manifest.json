@@ -1,6 +1,6 @@
 {
     "name": "PocketCalc",
-    "version_number": "1.3.1",
+    "version_number": "1.3.2",
     "website_url": "https://github.com/darkenb/PocketCalc",
     "description": "Small in-game calculator (Alt+C), keyboard or mouse. While it is open, the keyboard belongs to the calculator and does not trigger game or mod shortcuts.",
     "dependencies": [
